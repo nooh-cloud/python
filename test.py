@@ -1,10 +1,19 @@
-string = input('Enter a word:')
-
-vowels = "AEIOUaeiou"
-count = 0
-
-for char in string:
-    if char in vowels:
-        count += 1
+size = int(input("Enter the size: "))
+l1 =[]
+for i in  range(size) :
+    elements = int(input("Enter the elemets: "))
+    l1.append(elements)
+    
+if  l1[-1] == 0 :
+    while l1(+ 1):
         
-print(f"the number of vowels in the word is : {count}")
+        
+    
+    
+    
+for j in  range(size) :
+    if (l1) :
+    l1.remove(0)(elements)
+print("The list after rremoving trailing zeros.",l1)
+    
+    
