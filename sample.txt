@@ -1,0 +1,10 @@
+1.Write a program to create a new text file and write the sentence "Hello, world!" into it.?
+2.Create a program that reads and prints the contents of a text file called "sample.txt".?
+3.Write a program to append a line of text to an existing file. The line should read "This is an additional line."?
+4.Write a program to count the number of lines in a file.?
+5.Create a program that reads a file and counts the number of words in it.?
+6.Write a program that reads a file line by line and prints each line with its line number (e.g., Line 1: ...).?
+7.Write a program to check if a specific word (e.g., "Python") exists in a file.?
+8.Create a program that copies the contents of one file into another file.?
+9.Write a program to read numbers from a file and calculate their sum.?
+10.Write a program to replace a specific word in a file with another word (e.g., replace "old" with "new").? This is an additional line
